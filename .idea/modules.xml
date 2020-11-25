@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/activemq_demo.iml" filepath="$PROJECT_DIR$/activemq_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redis_test/redis_test.iml" filepath="$PROJECT_DIR$/redis_test/redis_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threadPoolDemo/threadPoolDemo.iml" filepath="$PROJECT_DIR$/threadPoolDemo/threadPoolDemo.iml" />
+    </modules>
+  </component>
+</project>
